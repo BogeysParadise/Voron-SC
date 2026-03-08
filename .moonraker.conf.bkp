@@ -27,6 +27,10 @@ cors_domains =
 
 [history]
 
+[spoolman]
+server = http://127.0.0.1:7912
+sync_rate = 5
+
 [file_manager]
 enable_object_processing = True
 
